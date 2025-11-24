@@ -1,6 +1,6 @@
 # PAA - Seminário II
 
-# 📌 Seminário II -- Projeto e Análise de Algoritmos
+# 📌 Seminário II - Projeto e Análise de Algoritmos
 
 ### Tema: Alocação de Recursos em Projetos usando Programação Dinâmica
 
@@ -26,7 +26,7 @@ Colab](https://colab.research.google.com/drive/19AItvYvjNBVBQ1lMLVcnI4Bso5TTepPq
 ## 📑 Slides da Apresentação
 
 A versão em PDF dos slides está disponível aqui:\
-📂 [Slides -- TSP](apresentacao.pdf)
+📂 [Slides](apresentacao.pdf)
 📂 [Link Canvas](https://www.canva.com/design/DAG5I7lukMQ/d4e2kR96JMozwHYyzoNZ6A/view?utm_content=DAG5I7lukMQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h8e779aa418)
 
 ------------------------------------------------------------------------
