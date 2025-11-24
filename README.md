@@ -32,7 +32,7 @@ A versão em PDF dos slides está disponível aqui:\
 ------------------------------------------------------------------------
 
 ## 🎬 Vídeo da Apresentação
-▶️ [Assista no YouTube](add link)
+▶️ [Assista no YouTube](https://youtu.be/3EEcM9POSeE)
 
 ------------------------------------------------------------------------
 
