@@ -1,1 +1,48 @@
-# PAA---Semin-rio-II
+# PAA---Seminário II
+
+# 📌 Seminário II -- Projeto e Análise de Algoritmos
+
+### Tema: Alocação de Recursos em Projetos usando Programação Dinâmica
+
+## 📖 Descrição
+
+Este repositório contém o material referente ao Seminário II  da
+disciplina **Projeto e Análise de Algoritmos**.
+
+- Link para o YouTube
+- Exemplo prático com código em Python (Google Colab).\
+- Slides de apresentação.
+
+------------------------------------------------------------------------
+
+## 🚀 Código no Google Colab
+
+Clique no link abaixo para acessar e executar o notebook:\
+🔗 [Notebook no Google
+Colab](https://colab.research.google.com/drive/19AItvYvjNBVBQ1lMLVcnI4Bso5TTepPq?usp=sharing)
+
+------------------------------------------------------------------------
+
+## 📑 Slides da Apresentação
+
+A versão em PDF dos slides está disponível aqui:\
+📂 [Slides -- TSP](tsp_apresentacao.pdf.pdf)
+📂 [Link Canvas](add link)
+
+------------------------------------------------------------------------
+
+## 🎬 Vídeo da Apresentação
+▶️ [Assista no YouTube](add link)
+
+------------------------------------------------------------------------
+
+## 🛠️ Tecnologias Utilizadas
+
+-   **Python 3**\
+
+------------------------------------------------------------------------
+
+## 👥 Integrantes do Grupo
+
+-   Gustavo Henrique Dias
+-   Raquel Cristina Martins
